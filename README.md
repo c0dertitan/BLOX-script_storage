@@ -1,2 +1,3 @@
 # BLOXX
-Bloxx is a game ripped off of roblox (roblox.com). It is only on Arch Linux (archlinux.org) (WARNING: Blox is not out yet)
+Bloxx is gonna be great we will be coding with github.
+we will be using [luau](https://github.com/Roblox/luau)
